@@ -1,0 +1,13 @@
+.new_medicines_container{
+    width: 600px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.new_medicines_container h1{
+    margin-bottom: 0.5em;
+}
+
+.new_medicines_container p{
+    color: #7b7b7b;
+}

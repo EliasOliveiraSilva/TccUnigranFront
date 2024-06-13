@@ -1,0 +1,22 @@
+.pacient_container{
+    padding: 2em;
+}
+
+.title_container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.alertMessage{
+    width: 100%;
+    padding: 1em;
+    border: 1px solid #FFD700;
+    background-color: #fafa9b;
+    color: #7b7b7b;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 2em;
+    border-radius: 5px;
+}

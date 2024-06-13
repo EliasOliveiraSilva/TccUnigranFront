@@ -1,0 +1,16 @@
+.new_contact_container{
+    width: 600px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.new_contact_container h1{
+    margin-bottom: 0.5em;
+}
+
+.new_contact_container p {
+    margin-bottom: 0.5em;
+}
+.new_contact_container p span{
+    color: #7b7b7b;
+}
